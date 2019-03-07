@@ -1,0 +1,17 @@
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.dll.config
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.pdb
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.OrderItem.resources
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.OrderItemEntity.resources
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.Customers.resources

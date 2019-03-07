@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\Example.exe.config
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\Example.exe
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\Example.pdb
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\DAL.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\DAL.pdb
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\DAL.dll.config
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.xml
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\obj\Debug\Example.csproj.CopyComplete
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\obj\Debug\Example.exe
+C:\Users\asus\Documents\dotnetlab-2018q3\ADO.NET_ORM\Example\Example\obj\Debug\Example.pdb
